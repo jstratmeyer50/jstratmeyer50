@@ -3,4 +3,4 @@
 - 🔭 QA Analyst
 - 🌱 Learning: Playwright & Cypress
 - 😄 Pronouns: they/them
-- [Linkedin](https://www.linkedin.com/in/jess-stratmeyer/)
+- 📫 [Linkedin](https://www.linkedin.com/in/jess-stratmeyer/)
