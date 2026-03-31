@@ -10,10 +10,6 @@
 - 📫 [Linkedin](https://www.linkedin.com/in/jess-stratmeyer/)
 
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jstratmeyer50&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-</p>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jstratmeyer50/jstratmeyer50/output/github-contribution-grid-snake-dark.svg">
