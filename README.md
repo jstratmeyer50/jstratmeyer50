@@ -7,6 +7,7 @@
 - 🔭 I'm currently a QA Analyst
 - 🌱 I'm learning Playwright & Cypress
 - 🛸 Fun fact: I'm a huge X-Files Fan!
+- ☕ [Buy me a coffee!](buymeacoffee.com/jessstratmeyer)
 - 📫 [Linkedin](https://www.linkedin.com/in/jess-stratmeyer/)
 
 
