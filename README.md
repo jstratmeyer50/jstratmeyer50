@@ -8,6 +8,7 @@
 - 🌱 I'm learning Playwright & Cypress
 - 🛸 Fun fact: I'm a huge X-Files Fan!
 - ☕ [Buy me a coffee!](https://www.buymeacoffee.com/jessstratmeyer)
+- 📁 [QA Portfolio](https://github.com/jstratmeyer50/qa-portfolio)
 - 📫 [Linkedin](https://www.linkedin.com/in/jess-stratmeyer/)
 
 
