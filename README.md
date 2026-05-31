@@ -32,6 +32,10 @@
 
 </div>
 
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false&section=footer" />
 </p>
+
+
+![](https://github-visitor-counter-tau.vercel.app/api?username=jstratmeyer50)
