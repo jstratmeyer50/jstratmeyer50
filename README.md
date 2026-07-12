@@ -2,14 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=I'm%20Jess👋🏻"/>
 </p>
 
+[🔗 View My Live Portfolio](https://jstratmeyer50.github.io/qa-portfolio/)
 
 - 😄 Pronouns: they/them
 - 🔭 I'm currently a QA Analyst
 - 🌱 I'm learning Playwright & Cypress
 - 🛸 Fun fact: I'm a huge X-Files Fan!
-- ☕ [Buy me a coffee!](https://www.buymeacoffee.com/jessstratmeyer)
-- 📁 [QA Portfolio](https://github.com/jstratmeyer50/qa-portfolio)
 - 📫 [Linkedin](https://www.linkedin.com/in/jess-stratmeyer/)
+- ☕ [Buy me a coffee!](https://www.buymeacoffee.com/jessstratmeyer)
 
 
 
