@@ -20,17 +20,24 @@
 </picture> 
 
 
+<div align="center">
+
+## 🛠️ My Tech Stack
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" alt="Cypress" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/playwright.svg" alt="Playwright" width="45" height="45"/>
+</p>
+
+</div>
+
 <p align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ28xank5cXBmeGozbGRhaXozdmtsZDh4bXhpeWx0cXo1bXdiaGdpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0NwAlXuErBdJUQx2/giphy.gif" />
 </p>
 
-
-
-<div align="center">
-
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="45" height="45"/> |
-|---|---|---|---|---|---|
-
-</div>
 
 
 <p align="center">
