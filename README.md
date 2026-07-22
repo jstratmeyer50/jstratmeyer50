@@ -5,7 +5,7 @@
 [🔗 View My Live Portfolio](https://jstratmeyer50.github.io/qa-portfolio/)
 
 - 😄 Pronouns: they/them
-- 🔭 I'm currently a Sr. QA Analyst
+- 🔭 I'm a Quality Assurance Analyst
 - 🌱 I'm learning Playwright & Cypress
 - 🛸 Fun fact: I'm a huge X-Files Fan!
 - 📫 [Linkedin](https://www.linkedin.com/in/jess-stratmeyer/)
